@@ -10,6 +10,5 @@ For inspiration, I have subscribed to the [daily coding problem newsletter] (htt
 
 Feel free to reference my code for inspiration and make sure that you challenge yourself everyday!
 
-Alexis Raymond 
-
+Alexis Raymond
 ([linkedin](https://www.linkedin.com/in/alexis-raymond-telfer/))
