@@ -1,6 +1,6 @@
 # Name: Alexis Raymond
 # Date: Feb 20, 2020
-# Exercise: given a positive number n, check if n or the binary representation of n is palindromic
+# Exercise: given a positive number n, check if n or the binary representation of n is palindromic (https://edabit.com/challenge/QuxCNBLcGJReCawjz)
 
 ##### Method #####
 def palindromeType(n): # returns strings that describe whether the number is a palindrome or not
